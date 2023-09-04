@@ -29,7 +29,7 @@ diskutil list
 The command should produce a list of drives installed in your system:
 ![](../images/Unflashed-Boot-1.png)
 
-Keep track of the drive with the OCLP install. You will need the drive identifer for later.
+Keep track of the drive with the OCLP install. You will need the drive identifier for later.
 
 Now you'll want to mount the EFI partition (where OCLP is installed, though it may differ if you've installed OCLP to a FAT-32 volume).
 
