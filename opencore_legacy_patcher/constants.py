@@ -177,7 +177,7 @@ class Constants:
         ## SMBIOS Settings
         self.serial_settings:     str  = "None"  #    Set SMBIOS level used
         self.override_smbios:     str  = "Default"  # Set SMBIOS model used
-        self.allow_native_spoofs: bool = False  #     Allow native models to recieve spoofs
+        self.allow_native_spoofs: bool = False  #     Allow native models to receive spoofs
 
         ### Serial Number Overrides
         self.custom_serial_number:       str = ""  # Set SMBIOS serial number
